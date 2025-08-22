@@ -50,6 +50,11 @@ The goal is to perform **Exploratory Data Analysis (EDA)** and generate meaningf
 - Most orders are delivered within **2–5 days**.  
 ![Delivery Days](plots/delivery_days_distribution.png)  
 
+
+## 📊 Dashboard
+Here are screenshots of the interactive dashboard:
+![Dashboard ](dashboard/dashboard.png)
+
 ---
 
 ## 🚀 How to Run  
