@@ -18,33 +18,37 @@ The goal is to perform **Exploratory Data Analysis (EDA)** and generate meaningf
 
 ## 🔍 Analysis & Insights  
 
-### 1. 📈 Yearly Sales Trend  
+### 1. 📈 Yearly Sales  
 - **Highest Sales Year:** 2017  
 ![Yearly Sales](plots/yearly_sales.png)  
 
-### 2. 🗓 Monthly Sales Trend  
+### 2. 🗓 Yearly Sales Trend  
+- Sales show an **upward trend over the years**.  
+![Yearly Sales Trend](plots/yearly_sales_trend.png)  
+
+### 3. 🗓 Monthly Sales Trend  
 - Sales peak towards **end of the year**.  
-![Monthly Sales](plots/monthly_sales.png)  
+![Monthly Sales Trend](plots/monthly_sales_trend.png)  
 
-### 3. 🏷 Sales by Category  
+### 4. 🏷 Sales by Category  
 - **Technology** leads in sales.  
-![Category Sales](plots/category_sales.png)  
+![Sales by Category](plots/sales_by_category.png)  
 
-### 4. 📦 Sales by Sub-Category  
+### 5. 📦 Sales by Sub-Category  
 - **Phones & Chairs** dominate sales.  
-![Sub-Category Sales](plots/subcategory_sales.png)  
+![Sales by Sub-Category](plots/sales_by_subcategory.png)  
 
-### 5. 🌍 Sales by Region  
+### 6. 🌍 Sales by Region  
 - **West region** contributes the most.  
-![Region Sales](plots/region_sales.png)  
+![Sales by Region](plots/sales_by_region.png)  
 
-### 6. 👥 Sales by Segment  
+### 7. 👥 Sales by Segment  
 - **Consumer segment** is the largest.  
-![Segment Sales](plots/segment_sales.png)  
+![Sales by Segment](plots/sales_by_segment.png)  
 
-### 7. 🚚 Delivery Days Analysis  
+### 8. 🚚 Delivery Days Analysis  
 - Most orders are delivered within **2–5 days**.  
-![Delivery Days](plots/delivery_days.png)  
+![Delivery Days](plots/delivery_days_distribution.png)  
 
 ---
 
